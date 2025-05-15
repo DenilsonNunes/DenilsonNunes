@@ -51,16 +51,16 @@ Olá! 👋 Eu sou o Denilson, moro em Cuiabá-MT e sou formado em Análise e Des
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Node" 
+    title="Node"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Nest"
+    title="Nest" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
@@ -75,9 +75,9 @@ Olá! 👋 Eu sou o Denilson, moro em Cuiabá-MT e sou formado em Análise e Des
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
+    alt="SqlServer" 
+    title="SqlServer"
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
 />
