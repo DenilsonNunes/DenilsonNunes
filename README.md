@@ -38,6 +38,13 @@ Me chamo Denilson
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
     />
     <img 
+        alt="React"
+        title="React" 
+        width="50px" 
+        style="margin-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
         alt="TypeScript"
         title="TypeScript" 
         width="50px" 
@@ -58,13 +65,6 @@ Me chamo Denilson
         style="margin-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />     
-    <img 
-        alt="React"
-        title="React" 
-        width="50px" 
-        style="margin-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-    />
 </div>
 
 
