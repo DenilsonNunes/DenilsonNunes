@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Denilson
+Olá! 👋 Eu sou o Denilson, formado em Análise e Desenvolvimento de Sistemas, com experiência em ERP e regras de negócio, o que me proporcionou uma compreensão de processos empresariais e gestão de sistemas. Atualmente, estou em transição para o desenvolvimento web, estudando e aprimorando minhas habilidades em NestJS e React. Sou apaixonado por resolver problemas e criar soluções, sempre em busca de novos desafios e aprendizados.
 
 ---
 
