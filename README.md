@@ -45,6 +45,13 @@ Me chamo Denilson
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
     />
     <img 
+        alt="Nest" 
+        title="Nest"
+        width="50px" 
+        style="margin-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+    />    
+    <img 
         alt="Git" 
         title="Git"
         width="50px" 
@@ -57,13 +64,6 @@ Me chamo Denilson
         width="50px" 
         style="margin-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-    />
-    <img 
-        alt="Nest" 
-        title="Nest"
-        width="50px" 
-        style="margin-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
     />
 </div>
 
