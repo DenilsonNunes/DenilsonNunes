@@ -73,15 +73,7 @@ Olá! 👋 Eu sou o Denilson, moro em Cuiabá-MT e sou formado em Análise e Des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SqlServer" 
-    title="SqlServer"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
-/>
-       
+
 <br/>
 <br/>
 
