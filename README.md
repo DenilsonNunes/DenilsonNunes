@@ -56,7 +56,7 @@ Me chamo Denilson
         title="Nest"
         width="50px" 
         style="margin-right: 20px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"
     />    
     <img 
         alt="Git" 
