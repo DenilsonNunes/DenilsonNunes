@@ -8,7 +8,7 @@ Me chamo Denilson
 
 ### 🤖 Linguagens e Tecnologias
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<div align="center" >
     <img 
         alt="HTML" 
         title="HTML" 
