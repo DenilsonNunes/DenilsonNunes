@@ -11,65 +11,70 @@ Atualmente, estou em transição para o desenvolvimento web, estudando e aprimor
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: white; padding: 10px; border-radius: 10px;">
-  <img 
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
-    style="background-color: white; padding: 5px; border-radius: 5px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
-  <img 
+/>
+<img 
+    align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
-    style="background-color: white; padding: 5px; border-radius: 5px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-  <img 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
-    style="background-color: white; padding: 5px; border-radius: 5px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-  <img 
+/>
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="40px" 
-    style="background-color: white; padding: 5px; border-radius: 5px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-  />
-  <img 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
-    width="40px" 
-    style="background-color: white; padding: 5px; border-radius: 5px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-  <img 
+/>
+<img 
+    align="left" 
     alt="Node" 
     title="Node"
-    width="40px" 
-    style="background-color: white; padding: 5px; border-radius: 5px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-  />
-  <img 
+/>
+<img 
+    align="left" 
     alt="Nest"
     title="Nest" 
-    width="40px" 
-    style="background-color: white; padding: 5px; border-radius: 5px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-  />
-  <img 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
-    style="background-color: white; padding: 5px; border-radius: 5px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-</div>
-
+/>
 
 <br/>
 <br/>
