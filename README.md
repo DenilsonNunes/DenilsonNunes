@@ -60,7 +60,7 @@ Me chamo Denilson
     align="left" 
     alt="Nest" 
     title="Nest"
-    width="80px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
 />
@@ -74,7 +74,7 @@ Me chamo Denilson
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DenilsonNunes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
