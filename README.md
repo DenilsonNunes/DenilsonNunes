@@ -89,8 +89,6 @@ Olá! 👋 Eu sou o Denilson, moro em Cuiabá-MT e sou formado em Análise e Des
 
 ### 📊 Estatísticas
 <br/>
-<br/>
-
 <div align="left">
   <img 
     alt="GitHub Stats" 
