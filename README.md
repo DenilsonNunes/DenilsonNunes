@@ -82,9 +82,10 @@ Olá! 👋 Eu sou o Denilson, moro em Cuiabá-MT e sou formado em Análise e Des
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
 />
 
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
