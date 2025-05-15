@@ -92,7 +92,8 @@ Olá! 👋 Eu sou o Denilson, moro em Cuiabá-MT e sou formado em Análise e Des
 <div align="left" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img 
     alt="GitHub Stats" 
-    height="180" 
+    height="180"
+    style="margin-right: 30px;" 
     src="https://github-readme-stats.vercel.app/api?username=DenilsonNunes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
