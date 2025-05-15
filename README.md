@@ -8,7 +8,7 @@ Me chamo Denilson
 
 ### 🤖 Linguagens e Tecnologias
 
-<div align="center" >
+<div align="left" >
     <img 
         alt="HTML" 
         title="HTML" 
