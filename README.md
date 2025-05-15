@@ -60,7 +60,7 @@ Me chamo Denilson
     align="left" 
     alt="Nest" 
     title="Nest"
-    width="30px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
 />
