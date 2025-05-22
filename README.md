@@ -66,48 +66,6 @@ Atualmente, estou em transição para o desenvolvimento web, estudando e aprimor
       width="30px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
-  <img 
-      alt="Git" 
-      title="Git" 
-      width="30px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <img 
-      alt="Git" 
-      title="Git" 
-      width="30px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <img 
-      alt="Git" 
-      title="Git" 
-      width="30px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <img 
-      alt="Git" 
-      title="Git" 
-      width="30px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <img 
-      alt="Git" 
-      title="Git" 
-      width="30px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <img 
-      alt="Git" 
-      title="Git" 
-      width="30px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <img 
-      alt="Git" 
-      title="Git" 
-      width="30px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
 </div>
 
 
