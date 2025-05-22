@@ -11,7 +11,7 @@ Atualmente, estou em transição para o desenvolvimento web, estudando e aprimor
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <img 
       alt="HTML" 
       title="HTML" 
